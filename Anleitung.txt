@@ -1,0 +1,13 @@
+Spiel verlassen mit:
+"quit"
+
+Bewegen mit:
+"norden"
+"osten"
+"süden"
+"westen"
+
+Alle anderen Kommandos:
+"nimm" 		bsp.: nimm schlüssel
+"benutze" 	bsp.: benutze schlüssel
+

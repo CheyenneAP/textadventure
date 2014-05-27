@@ -1,0 +1,15 @@
+[wege]
+norden
+[items]
+geld
+zettel
+[text]
+Du befindest dich in deiner Wohnung.
+Auf dem Tisch liegt etwas Geld und ein Zettel.
+Der Ausgang ist im Norden.
+[text,geld]
+Du befindest dich in deiner Wohnung. Auf dem Tisch liegt ein Zettel. Der Ausgang ist im Norden.
+[text,zettel]
+Du befindest dich in deiner Wohnung. Auf dem Tisch liegt etwas Geld. Der Ausgang ist im Norden.
+[text,geld,zettel]
+Du befindest dich in deiner Wohnung. Der Tisch ist leer. Der Ausgang ist im Norden.
